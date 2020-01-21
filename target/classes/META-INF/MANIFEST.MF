@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-security
+Implementation-Version: 1.0.0
+Built-By: Dell
+Implementation-Vendor-Id: com.dy
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-security
+Created-By: Maven Integration for Eclipse
+
